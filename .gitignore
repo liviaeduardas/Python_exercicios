@@ -159,3 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 pythonProject1/Exercicios_base/00.py
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+.vscode/launch.json
